@@ -1,0 +1,333 @@
+2025-02-16 15:57:50,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.0.103:5000
+2025-02-16 15:57:50,622 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 15:57:50,623 - INFO -  * Restarting with stat
+2025-02-16 15:57:51,713 - WARNING -  * Debugger is active!
+2025-02-16 15:57:51,718 - INFO -  * Debugger PIN: 196-400-584
+2025-02-16 15:58:02,391 - INFO - 192.168.0.103 - - [16/Feb/2025 15:58:02] "GET / HTTP/1.1" 200 -
+2025-02-16 15:58:02,663 - INFO - 192.168.0.103 - - [16/Feb/2025 15:58:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-16 15:58:18,461 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 15:58:20,567 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company with score 76
+2025-02-16 15:58:20,611 - ERROR - Error analyzing https://mobicloudtechnologies.com/home/best-software-company: 'int' object is not iterable
+2025-02-16 15:58:20,626 - INFO - 192.168.0.103 - - [16/Feb/2025 15:58:20] "POST / HTTP/1.1" 200 -
+2025-02-16 15:58:26,025 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 15:58:26,444 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company with score 76
+2025-02-16 15:58:26,452 - ERROR - Error analyzing https://mobicloudtechnologies.com/home/best-software-company: 'int' object is not iterable
+2025-02-16 15:58:26,459 - INFO - 192.168.0.103 - - [16/Feb/2025 15:58:26] "POST / HTTP/1.1" 200 -
+2025-02-16 16:00:16,930 - INFO - Starting analysis for https://codeium.com/
+2025-02-16 16:00:21,876 - INFO - Analysis completed for https://codeium.com/ with score 91
+2025-02-16 16:00:21,891 - ERROR - Error analyzing https://codeium.com/: 'int' object is not iterable
+2025-02-16 16:00:21,904 - INFO - 192.168.0.103 - - [16/Feb/2025 16:00:21] "POST / HTTP/1.1" 200 -
+2025-02-16 16:00:31,038 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:00:31,929 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company with score 76
+2025-02-16 16:00:31,941 - ERROR - Error analyzing https://mobicloudtechnologies.com/home/best-software-company: 'int' object is not iterable
+2025-02-16 16:00:31,958 - INFO - 192.168.0.103 - - [16/Feb/2025 16:00:31] "POST / HTTP/1.1" 200 -
+2025-02-16 16:00:56,513 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\New folder (2)\\seo_analyzer.py', reloading
+2025-02-16 16:00:57,854 - INFO -  * Restarting with stat
+2025-02-16 16:01:00,468 - WARNING -  * Debugger is active!
+2025-02-16 16:01:00,477 - INFO -  * Debugger PIN: 196-400-584
+2025-02-16 16:01:05,641 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:01:05,671 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:01:06,344 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:01:06,930 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company with score 76
+2025-02-16 16:01:06,946 - ERROR - Error analyzing https://mobicloudtechnologies.com/home/best-software-company: 'int' object is not iterable
+2025-02-16 16:01:06,955 - INFO - 192.168.0.103 - - [16/Feb/2025 16:01:06] "POST / HTTP/1.1" 200 -
+2025-02-16 16:01:44,276 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\New folder (2)\\seo_analyzer.py', reloading
+2025-02-16 16:01:44,854 - INFO -  * Restarting with stat
+2025-02-16 16:01:46,801 - WARNING -  * Debugger is active!
+2025-02-16 16:01:46,806 - INFO -  * Debugger PIN: 196-400-584
+2025-02-16 16:03:29,627 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:03:29,642 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:03:29,657 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:03:30,082 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company with score 76
+2025-02-16 16:03:30,101 - ERROR - Error analyzing https://mobicloudtechnologies.com/home/best-software-company: 'int' object is not iterable
+2025-02-16 16:03:30,115 - INFO - 192.168.0.103 - - [16/Feb/2025 16:03:30] "POST / HTTP/1.1" 200 -
+2025-02-16 16:03:34,958 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:03:34,959 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:03:34,967 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:03:35,438 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company with score 76
+2025-02-16 16:03:35,451 - ERROR - Error analyzing https://mobicloudtechnologies.com/home/best-software-company: 'int' object is not iterable
+2025-02-16 16:03:35,461 - INFO - 192.168.0.103 - - [16/Feb/2025 16:03:35] "POST / HTTP/1.1" 200 -
+2025-02-16 16:04:05,642 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\New folder (2)\\seo_analyzer.py', reloading
+2025-02-16 16:04:06,457 - INFO -  * Restarting with stat
+2025-02-16 16:04:09,907 - WARNING -  * Debugger is active!
+2025-02-16 16:04:09,912 - INFO -  * Debugger PIN: 196-400-584
+2025-02-16 16:06:04,522 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:06:04,538 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:06:04,549 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:06:04,555 - INFO - Completed meta tags analysis
+2025-02-16 16:06:04,555 - INFO - Completed headers analysis
+2025-02-16 16:06:04,555 - INFO - Completed images analysis
+2025-02-16 16:06:04,555 - INFO - Completed links analysis
+2025-02-16 16:06:04,555 - INFO - Completed content analysis
+2025-02-16 16:06:04,556 - INFO - Completed mobile friendly analysis
+2025-02-16 16:06:04,556 - INFO - Completed structured data analysis
+2025-02-16 16:06:04,556 - INFO - Calculated SEO score: 73
+2025-02-16 16:06:04,556 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company with score 73
+2025-02-16 16:06:04,569 - INFO - 192.168.0.103 - - [16/Feb/2025 16:06:04] "POST / HTTP/1.1" 200 -
+2025-02-16 16:06:09,264 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:06:09,264 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:06:09,269 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:06:09,277 - INFO - Completed meta tags analysis
+2025-02-16 16:06:09,278 - INFO - Completed headers analysis
+2025-02-16 16:06:09,279 - INFO - Completed images analysis
+2025-02-16 16:06:09,279 - INFO - Completed links analysis
+2025-02-16 16:06:09,279 - INFO - Completed content analysis
+2025-02-16 16:06:09,280 - INFO - Completed mobile friendly analysis
+2025-02-16 16:06:09,281 - INFO - Completed structured data analysis
+2025-02-16 16:06:09,281 - INFO - Calculated SEO score: 73
+2025-02-16 16:06:09,281 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company with score 73
+2025-02-16 16:06:09,297 - INFO - 192.168.0.103 - - [16/Feb/2025 16:06:09] "POST / HTTP/1.1" 200 -
+2025-02-16 16:06:26,908 - INFO - Received URL for analysis: https://codeium.com/
+2025-02-16 16:06:26,908 - INFO - Starting analysis for https://codeium.com/
+2025-02-16 16:06:28,016 - INFO - Successfully fetched URL: https://codeium.com/
+2025-02-16 16:06:28,110 - INFO - Completed meta tags analysis
+2025-02-16 16:06:28,112 - INFO - Completed headers analysis
+2025-02-16 16:06:28,114 - INFO - Completed images analysis
+2025-02-16 16:06:28,115 - INFO - Completed links analysis
+2025-02-16 16:06:28,116 - INFO - Completed content analysis
+2025-02-16 16:06:28,116 - INFO - Completed mobile friendly analysis
+2025-02-16 16:06:28,125 - INFO - Completed structured data analysis
+2025-02-16 16:06:28,125 - INFO - Calculated SEO score: 92
+2025-02-16 16:06:28,125 - INFO - Analysis completed for https://codeium.com/ with score 92
+2025-02-16 16:06:28,140 - INFO - 192.168.0.103 - - [16/Feb/2025 16:06:28] "POST / HTTP/1.1" 200 -
+2025-02-16 16:06:41,798 - INFO - Received URL for analysis: https://www.mplussoft.com/
+2025-02-16 16:06:41,798 - INFO - Starting analysis for https://www.mplussoft.com/
+2025-02-16 16:06:52,217 - ERROR - Error fetching URL https://www.mplussoft.com/: HTTPSConnectionPool(host='www.mplussoft.com', port=443): Read timed out. (read timeout=10)
+2025-02-16 16:06:52,227 - INFO - 192.168.0.103 - - [16/Feb/2025 16:06:52] "POST / HTTP/1.1" 200 -
+2025-02-16 16:06:59,100 - INFO - Received URL for analysis: https://www.mplussoft.com/
+2025-02-16 16:06:59,100 - INFO - Starting analysis for https://www.mplussoft.com/
+2025-02-16 16:06:59,540 - INFO - Successfully fetched URL: https://www.mplussoft.com/
+2025-02-16 16:06:59,643 - INFO - Completed meta tags analysis
+2025-02-16 16:06:59,648 - INFO - Completed headers analysis
+2025-02-16 16:06:59,650 - INFO - Completed images analysis
+2025-02-16 16:06:59,651 - INFO - Completed links analysis
+2025-02-16 16:06:59,653 - INFO - Completed content analysis
+2025-02-16 16:06:59,653 - INFO - Completed mobile friendly analysis
+2025-02-16 16:06:59,663 - INFO - Completed structured data analysis
+2025-02-16 16:06:59,663 - INFO - Calculated SEO score: 88
+2025-02-16 16:06:59,663 - INFO - Analysis completed for https://www.mplussoft.com/ with score 88
+2025-02-16 16:06:59,678 - INFO - 192.168.0.103 - - [16/Feb/2025 16:06:59] "POST / HTTP/1.1" 200 -
+2025-02-16 16:07:09,583 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/mobians-admin
+2025-02-16 16:07:09,583 - INFO - Starting analysis for https://mobicloudtechnologies.com/mobians-admin
+2025-02-16 16:07:10,043 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/mobians-admin
+2025-02-16 16:07:10,046 - INFO - Completed meta tags analysis
+2025-02-16 16:07:10,046 - INFO - Completed headers analysis
+2025-02-16 16:07:10,046 - INFO - Completed images analysis
+2025-02-16 16:07:10,046 - INFO - Completed links analysis
+2025-02-16 16:07:10,047 - INFO - Completed content analysis
+2025-02-16 16:07:10,047 - INFO - Completed mobile friendly analysis
+2025-02-16 16:07:10,047 - INFO - Completed structured data analysis
+2025-02-16 16:07:10,047 - INFO - Calculated SEO score: 54
+2025-02-16 16:07:10,047 - INFO - Analysis completed for https://mobicloudtechnologies.com/mobians-admin with score 54
+2025-02-16 16:07:10,063 - INFO - 192.168.0.103 - - [16/Feb/2025 16:07:10] "POST / HTTP/1.1" 200 -
+2025-02-16 16:15:27,066 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\New folder (2)\\seo_analyzer.py', reloading
+2025-02-16 16:15:27,226 - INFO -  * Restarting with stat
+2025-02-16 16:15:28,495 - WARNING -  * Debugger is active!
+2025-02-16 16:15:28,499 - INFO -  * Debugger PIN: 196-400-584
+2025-02-16 16:16:02,414 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\New folder (2)\\seo_analyzer.py', reloading
+2025-02-16 16:16:02,658 - INFO -  * Restarting with stat
+2025-02-16 16:16:04,457 - WARNING -  * Debugger is active!
+2025-02-16 16:16:04,462 - INFO -  * Debugger PIN: 196-400-584
+2025-02-16 16:16:30,543 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/mobians-admin
+2025-02-16 16:16:30,557 - INFO - Starting analysis for https://mobicloudtechnologies.com/mobians-admin
+2025-02-16 16:16:30,570 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/mobians-admin
+2025-02-16 16:16:30,573 - INFO - Completed meta tags analysis
+2025-02-16 16:16:30,574 - INFO - Completed headers analysis
+2025-02-16 16:16:30,574 - INFO - Completed images analysis
+2025-02-16 16:16:30,574 - INFO - Completed links analysis
+2025-02-16 16:16:30,574 - INFO - Completed content analysis
+2025-02-16 16:16:30,574 - INFO - Completed mobile friendly analysis
+2025-02-16 16:16:30,574 - INFO - Completed structured data analysis
+2025-02-16 16:16:30,575 - INFO - Calculated SEO score: {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:16:30,575 - INFO - Analysis completed for https://mobicloudtechnologies.com/mobians-admin with score {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:16:30,588 - INFO - 192.168.0.103 - - [16/Feb/2025 16:16:30] "POST / HTTP/1.1" 200 -
+2025-02-16 16:16:38,961 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/mobians-admin
+2025-02-16 16:16:38,962 - INFO - Starting analysis for https://mobicloudtechnologies.com/mobians-admin
+2025-02-16 16:16:38,967 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/mobians-admin
+2025-02-16 16:16:38,970 - INFO - Completed meta tags analysis
+2025-02-16 16:16:38,970 - INFO - Completed headers analysis
+2025-02-16 16:16:38,970 - INFO - Completed images analysis
+2025-02-16 16:16:38,971 - INFO - Completed links analysis
+2025-02-16 16:16:38,971 - INFO - Completed content analysis
+2025-02-16 16:16:38,971 - INFO - Completed mobile friendly analysis
+2025-02-16 16:16:38,971 - INFO - Completed structured data analysis
+2025-02-16 16:16:38,971 - INFO - Calculated SEO score: {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:16:38,971 - INFO - Analysis completed for https://mobicloudtechnologies.com/mobians-admin with score {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:16:38,980 - INFO - 192.168.0.103 - - [16/Feb/2025 16:16:38] "POST / HTTP/1.1" 200 -
+2025-02-16 16:16:46,918 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://192.168.0.103:5000
+2025-02-16 16:16:46,918 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-16 16:16:46,920 - INFO -  * Restarting with stat
+2025-02-16 16:16:47,861 - WARNING -  * Debugger is active!
+2025-02-16 16:16:47,866 - INFO -  * Debugger PIN: 196-400-584
+2025-02-16 16:16:53,287 - INFO - 192.168.0.103 - - [16/Feb/2025 16:16:53] "GET / HTTP/1.1" 200 -
+2025-02-16 16:17:01,001 - INFO - Received URL for analysis: https://codeium.com/
+2025-02-16 16:17:01,019 - INFO - Starting analysis for https://codeium.com/
+2025-02-16 16:17:01,035 - INFO - Successfully fetched URL: https://codeium.com/
+2025-02-16 16:17:01,139 - INFO - Completed meta tags analysis
+2025-02-16 16:17:01,143 - INFO - Completed headers analysis
+2025-02-16 16:17:01,144 - INFO - Completed images analysis
+2025-02-16 16:17:01,144 - INFO - Completed links analysis
+2025-02-16 16:17:01,145 - INFO - Completed content analysis
+2025-02-16 16:17:01,145 - INFO - Completed mobile friendly analysis
+2025-02-16 16:17:01,153 - INFO - Completed structured data analysis
+2025-02-16 16:17:01,153 - INFO - Calculated SEO score: {'overall': {'score': 92, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'categories': {'meta_tags': {'score': 92, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'headers': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'images': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'links': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'content': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:17:01,153 - INFO - Analysis completed for https://codeium.com/ with score {'overall': {'score': 92, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'categories': {'meta_tags': {'score': 92, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'headers': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'images': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'links': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'content': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:17:01,166 - INFO - 192.168.0.103 - - [16/Feb/2025 16:17:01] "POST / HTTP/1.1" 200 -
+2025-02-16 16:17:22,979 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:17:22,980 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:17:22,984 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:17:22,991 - INFO - Completed meta tags analysis
+2025-02-16 16:17:22,992 - INFO - Completed headers analysis
+2025-02-16 16:17:22,992 - INFO - Completed images analysis
+2025-02-16 16:17:22,993 - INFO - Completed links analysis
+2025-02-16 16:17:22,993 - INFO - Completed content analysis
+2025-02-16 16:17:22,993 - INFO - Completed mobile friendly analysis
+2025-02-16 16:17:22,993 - INFO - Completed structured data analysis
+2025-02-16 16:17:22,994 - INFO - Calculated SEO score: {'overall': {'score': 73, 'grade': {'grade': 'Average', 'color': '#f1c40f'}}, 'categories': {'meta_tags': {'score': 83, 'grade': {'grade': 'Good', 'color': '#27ae60'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}}}
+2025-02-16 16:17:22,994 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company with score {'overall': {'score': 73, 'grade': {'grade': 'Average', 'color': '#f1c40f'}}, 'categories': {'meta_tags': {'score': 83, 'grade': {'grade': 'Good', 'color': '#27ae60'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}}}
+2025-02-16 16:17:23,005 - INFO - 192.168.0.103 - - [16/Feb/2025 16:17:23] "POST / HTTP/1.1" 200 -
+2025-02-16 16:18:15,923 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/mobians-admin/login
+2025-02-16 16:18:15,923 - INFO - Starting analysis for https://mobicloudtechnologies.com/mobians-admin/login
+2025-02-16 16:18:16,816 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/mobians-admin/login
+2025-02-16 16:18:16,818 - INFO - Completed meta tags analysis
+2025-02-16 16:18:16,819 - INFO - Completed headers analysis
+2025-02-16 16:18:16,819 - INFO - Completed images analysis
+2025-02-16 16:18:16,819 - INFO - Completed links analysis
+2025-02-16 16:18:16,819 - INFO - Completed content analysis
+2025-02-16 16:18:16,820 - INFO - Completed mobile friendly analysis
+2025-02-16 16:18:16,820 - INFO - Completed structured data analysis
+2025-02-16 16:18:16,820 - INFO - Calculated SEO score: {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:18:16,820 - INFO - Analysis completed for https://mobicloudtechnologies.com/mobians-admin/login with score {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:18:16,836 - INFO - 192.168.0.103 - - [16/Feb/2025 16:18:16] "POST / HTTP/1.1" 200 -
+2025-02-16 16:18:25,638 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:18:25,638 - INFO - Starting analysis for https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:18:25,643 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:18:25,647 - INFO - Completed meta tags analysis
+2025-02-16 16:18:25,647 - INFO - Completed headers analysis
+2025-02-16 16:18:25,648 - INFO - Completed images analysis
+2025-02-16 16:18:25,648 - INFO - Completed links analysis
+2025-02-16 16:18:25,648 - INFO - Completed content analysis
+2025-02-16 16:18:25,648 - INFO - Completed mobile friendly analysis
+2025-02-16 16:18:25,649 - INFO - Completed structured data analysis
+2025-02-16 16:18:25,649 - INFO - Calculated SEO score: {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:18:25,649 - INFO - Analysis completed for https://mobicloudtechnologies.com/mobians-admin/ with score {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:18:25,660 - INFO - 192.168.0.103 - - [16/Feb/2025 16:18:25] "POST / HTTP/1.1" 200 -
+2025-02-16 16:19:50,712 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\New folder (2)\\seo_analyzer.py', reloading
+2025-02-16 16:19:51,173 - INFO -  * Restarting with stat
+2025-02-16 16:19:52,517 - WARNING -  * Debugger is active!
+2025-02-16 16:19:52,524 - INFO -  * Debugger PIN: 196-400-584
+2025-02-16 16:20:29,932 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\New folder (2)\\seo_analyzer.py', reloading
+2025-02-16 16:20:30,055 - INFO -  * Restarting with stat
+2025-02-16 16:20:31,514 - WARNING -  * Debugger is active!
+2025-02-16 16:20:31,519 - INFO -  * Debugger PIN: 196-400-584
+2025-02-16 16:20:52,106 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:20:52,128 - INFO - Starting analysis for https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:20:52,148 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:20:52,152 - INFO - Completed meta tags analysis
+2025-02-16 16:20:52,152 - INFO - Completed headers analysis
+2025-02-16 16:20:52,152 - INFO - Completed images analysis
+2025-02-16 16:20:52,152 - INFO - Completed links analysis
+2025-02-16 16:20:52,153 - INFO - Completed content analysis
+2025-02-16 16:20:52,153 - INFO - Completed mobile friendly analysis
+2025-02-16 16:20:52,153 - INFO - Completed structured data analysis
+2025-02-16 16:20:52,153 - INFO - Calculated SEO score: {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:20:52,153 - INFO - Analysis completed for https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:20:52,178 - INFO - 192.168.0.103 - - [16/Feb/2025 16:20:52] "POST / HTTP/1.1" 200 -
+2025-02-16 16:20:56,847 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/mobians-admin/login
+2025-02-16 16:20:56,847 - INFO - Starting analysis for https://mobicloudtechnologies.com/mobians-admin/login
+2025-02-16 16:20:56,854 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/mobians-admin/login
+2025-02-16 16:20:56,861 - INFO - Completed meta tags analysis
+2025-02-16 16:20:56,861 - INFO - Completed headers analysis
+2025-02-16 16:20:56,862 - INFO - Completed images analysis
+2025-02-16 16:20:56,862 - INFO - Completed links analysis
+2025-02-16 16:20:56,862 - INFO - Completed content analysis
+2025-02-16 16:20:56,863 - INFO - Completed mobile friendly analysis
+2025-02-16 16:20:56,863 - INFO - Completed structured data analysis
+2025-02-16 16:20:56,864 - INFO - Calculated SEO score: {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:20:56,864 - INFO - Analysis completed for https://mobicloudtechnologies.com/mobians-admin/login
+2025-02-16 16:20:56,884 - INFO - 192.168.0.103 - - [16/Feb/2025 16:20:56] "POST / HTTP/1.1" 200 -
+2025-02-16 16:23:54,517 - INFO -  * Detected change in 'C:\\Users\\Admin\\Desktop\\New folder (2)\\seo_analyzer.py', reloading
+2025-02-16 16:23:54,818 - INFO -  * Restarting with stat
+2025-02-16 16:23:56,210 - WARNING -  * Debugger is active!
+2025-02-16 16:23:56,215 - INFO -  * Debugger PIN: 196-400-584
+2025-02-16 16:26:36,143 - INFO - 192.168.0.103 - - [16/Feb/2025 16:26:36] "GET / HTTP/1.1" 200 -
+2025-02-16 16:26:38,727 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:26:38,744 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:26:38,758 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:26:38,762 - INFO - Completed meta tags analysis
+2025-02-16 16:26:38,763 - INFO - Completed headers analysis
+2025-02-16 16:26:38,763 - INFO - Completed images analysis
+2025-02-16 16:26:38,763 - INFO - Completed links analysis
+2025-02-16 16:26:38,763 - INFO - Completed content analysis
+2025-02-16 16:26:38,763 - INFO - Completed mobile friendly analysis
+2025-02-16 16:26:38,764 - INFO - Completed structured data analysis
+2025-02-16 16:26:38,764 - INFO - Calculated SEO score: {'overall': {'score': 73, 'grade': {'grade': 'Average', 'color': '#f1c40f'}}, 'categories': {'meta_tags': {'score': 83, 'grade': {'grade': 'Good', 'color': '#27ae60'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}}}
+2025-02-16 16:26:38,764 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:26:38,779 - INFO - 192.168.0.103 - - [16/Feb/2025 16:26:38] "POST / HTTP/1.1" 200 -
+2025-02-16 16:26:52,123 - INFO - Received URL for analysis: https://www.mplussoft.com/
+2025-02-16 16:26:52,123 - INFO - Starting analysis for https://www.mplussoft.com/
+2025-02-16 16:26:52,128 - INFO - Successfully fetched URL: https://www.mplussoft.com/
+2025-02-16 16:26:52,230 - INFO - Completed meta tags analysis
+2025-02-16 16:26:52,235 - INFO - Completed headers analysis
+2025-02-16 16:26:52,236 - INFO - Completed images analysis
+2025-02-16 16:26:52,237 - INFO - Completed links analysis
+2025-02-16 16:26:52,239 - INFO - Completed content analysis
+2025-02-16 16:26:52,240 - INFO - Completed mobile friendly analysis
+2025-02-16 16:26:52,258 - INFO - Completed structured data analysis
+2025-02-16 16:26:52,258 - INFO - Calculated SEO score: {'overall': {'score': 88, 'grade': {'grade': 'Good', 'color': '#27ae60'}}, 'categories': {'meta_tags': {'score': 92, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'headers': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'content': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:26:52,259 - INFO - Analysis completed for https://www.mplussoft.com/
+2025-02-16 16:26:52,272 - INFO - 192.168.0.103 - - [16/Feb/2025 16:26:52] "POST / HTTP/1.1" 200 -
+2025-02-16 16:26:58,964 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:26:58,965 - INFO - Starting analysis for https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:26:58,967 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:26:58,973 - INFO - Completed meta tags analysis
+2025-02-16 16:26:58,973 - INFO - Completed headers analysis
+2025-02-16 16:26:58,974 - INFO - Completed images analysis
+2025-02-16 16:26:58,974 - INFO - Completed links analysis
+2025-02-16 16:26:58,974 - INFO - Completed content analysis
+2025-02-16 16:26:58,975 - INFO - Completed mobile friendly analysis
+2025-02-16 16:26:58,975 - INFO - Completed structured data analysis
+2025-02-16 16:26:58,975 - INFO - Calculated SEO score: {'overall': {'score': 54, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:26:58,976 - INFO - Analysis completed for https://mobicloudtechnologies.com/mobians-admin/
+2025-02-16 16:26:58,991 - INFO - 192.168.0.103 - - [16/Feb/2025 16:26:58] "POST / HTTP/1.1" 200 -
+2025-02-16 16:27:03,693 - INFO - Received URL for analysis: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:27:03,693 - INFO - Starting analysis for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:27:03,698 - INFO - Successfully fetched URL: https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:27:03,705 - INFO - Completed meta tags analysis
+2025-02-16 16:27:03,706 - INFO - Completed headers analysis
+2025-02-16 16:27:03,706 - INFO - Completed images analysis
+2025-02-16 16:27:03,706 - INFO - Completed links analysis
+2025-02-16 16:27:03,707 - INFO - Completed content analysis
+2025-02-16 16:27:03,707 - INFO - Completed mobile friendly analysis
+2025-02-16 16:27:03,708 - INFO - Completed structured data analysis
+2025-02-16 16:27:03,708 - INFO - Calculated SEO score: {'overall': {'score': 73, 'grade': {'grade': 'Average', 'color': '#f1c40f'}}, 'categories': {'meta_tags': {'score': 83, 'grade': {'grade': 'Good', 'color': '#27ae60'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}}}
+2025-02-16 16:27:03,708 - INFO - Analysis completed for https://mobicloudtechnologies.com/home/best-software-company
+2025-02-16 16:27:03,724 - INFO - 192.168.0.103 - - [16/Feb/2025 16:27:03] "POST / HTTP/1.1" 200 -
+2025-02-16 16:27:32,369 - INFO - Received URL for analysis: https://www.youtube.com/
+2025-02-16 16:27:32,369 - INFO - Starting analysis for https://www.youtube.com/
+2025-02-16 16:27:33,306 - INFO - Successfully fetched URL: https://www.youtube.com/
+2025-02-16 16:27:33,351 - INFO - Completed meta tags analysis
+2025-02-16 16:27:33,352 - INFO - Completed headers analysis
+2025-02-16 16:27:33,353 - INFO - Completed images analysis
+2025-02-16 16:27:33,353 - INFO - Completed links analysis
+2025-02-16 16:27:33,353 - INFO - Completed content analysis
+2025-02-16 16:27:33,354 - INFO - Completed mobile friendly analysis
+2025-02-16 16:27:33,358 - INFO - Completed structured data analysis
+2025-02-16 16:27:33,358 - INFO - Calculated SEO score: {'overall': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'categories': {'meta_tags': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'headers': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'content': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'mobile_friendly': {'score': 0, 'grade': {'grade': 'Critical', 'color': '#c0392b'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:27:33,358 - INFO - Analysis completed for https://www.youtube.com/
+2025-02-16 16:27:33,388 - INFO - 192.168.0.103 - - [16/Feb/2025 16:27:33] "POST / HTTP/1.1" 200 -
+2025-02-16 16:28:04,155 - INFO - Received URL for analysis: https://github.com/
+2025-02-16 16:28:04,155 - INFO - Starting analysis for https://github.com/
+2025-02-16 16:28:04,593 - INFO - Successfully fetched URL: https://github.com/
+2025-02-16 16:28:04,716 - INFO - Completed meta tags analysis
+2025-02-16 16:28:04,720 - INFO - Completed headers analysis
+2025-02-16 16:28:04,722 - INFO - Completed images analysis
+2025-02-16 16:28:04,723 - INFO - Completed links analysis
+2025-02-16 16:28:04,726 - INFO - Completed content analysis
+2025-02-16 16:28:04,726 - INFO - Completed mobile friendly analysis
+2025-02-16 16:28:04,737 - INFO - Completed structured data analysis
+2025-02-16 16:28:04,737 - INFO - Calculated SEO score: {'overall': {'score': 81, 'grade': {'grade': 'Good', 'color': '#27ae60'}}, 'categories': {'meta_tags': {'score': 83, 'grade': {'grade': 'Good', 'color': '#27ae60'}}, 'headers': {'score': 75, 'grade': {'grade': 'Average', 'color': '#f1c40f'}}, 'images': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}, 'links': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'content': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'mobile_friendly': {'score': 100, 'grade': {'grade': 'Excellent', 'color': '#2ecc71'}}, 'structured_data': {'score': 50, 'grade': {'grade': 'Poor', 'color': '#e67e22'}}}}
+2025-02-16 16:28:04,737 - INFO - Analysis completed for https://github.com/
+2025-02-16 16:28:04,755 - INFO - 192.168.0.103 - - [16/Feb/2025 16:28:04] "POST / HTTP/1.1" 200 -
